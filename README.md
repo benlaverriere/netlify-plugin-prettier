@@ -6,11 +6,13 @@ Enforce prettier code style
 
 ## Usage
 
-To install, add `prettier` to your project and add the following lines to your `netlify.toml` file:
+To install, add `prettier` to your project 
 
 ```zsh
 yarn add prettier
 ```
+
+add the following lines to your `netlify.toml` file:
 
 ```toml
 [[plugins]]
