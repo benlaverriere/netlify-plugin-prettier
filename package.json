@@ -1,0 +1,18 @@
+{
+  "name": "netlify-plugin-prettier",
+  "version": "0.0.1",
+  "description": "Enforce Prettier code style",
+  "main": "index.js",
+  "repository": "https://github.com/coldpour/netlify-plugin-prettier.git",
+  "bugs": {
+    "url": "https://github.com/coldpour/netlify-plugin-prettier/issues"
+  },
+  "author": "Mike Holm <coldpour@gmail.com> (https://mikeholmdev.com)",
+  "license": "MIT",
+  "keywords": [
+    "netlify",
+    "netlify-plugin",
+    "prettier"
+  ],
+  "dependencies": {}
+}
